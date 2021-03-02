@@ -22,4 +22,4 @@ pod 'PrettyRuler', '~> 2.1.1'
 	
 #效果图
 
-![test](![](https://raw.githubusercontent.com/AsTryE/Images/master/Resoures/IMG_6448DF40A3D8-1.jpeg))
+![](https://raw.githubusercontent.com/AsTryE/Images/master/Resoures/IMG_6448DF40A3D8-1.jpeg)
